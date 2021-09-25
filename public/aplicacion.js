@@ -124,16 +124,16 @@ class Juego{ //defino el objeto del juego
 // aca voy a instanciar las preguntas en categorias
 // Categoria 1
 const pregunta1Ronda1 = new Pregunta('¿Cuanto dura un partido de futbol?',['90 minutos','80 minutos','120 minutos','2 horas'],0, 1, "1'000.000", "0")
-const pregunta2Ronda1 = new Pregunta('¿Cual fue el primer equipo en ganar la copa mundial de futbol en 1934?',['Brasil','Chile','Uruguay','Italia'],2,1,"1'000.000", "0")
-const pregunta3Ronda1 = new Pregunta('¿Cuantos titulos de motociclismo ha conseguido valentino Rossi?',['10','50','4','9'],3,1,"1'000.000", "0")
+const pregunta2Ronda1 = new Pregunta('¿Cómo se llama el papa del Vaticano actual año 2016',['Papa Benedicto','Pio X','Papa Francisco','Ninguna de las anteriores'],2,1,"1'000.000", "0")
+const pregunta3Ronda1 = new Pregunta('¿Cómo se llama a los Antioqueños popularmente?',['Santandereanos','Costeños','Rolos','Paisas'],3,1,"1'000.000", "0")
 const pregunta4Ronda1 = new Pregunta('¿Qué tipo de competición es el Giro de Italia?',['Futbol','Ciclismo','Automovilismo','Tennis'],1,1,"1'000.000", "0")
-const pregunta5Ronda1 = new Pregunta('¿Si juegas en la NFL que deporte practicas?',['Futbol Americano','Hockey','Basketball','Golf'],0,1,"1'000.000", "0")
+const pregunta5Ronda1 = new Pregunta('¿Cómo era el pelo de Bob Marley?',['Rastas','Liso','Afro','Ondulado'],0,1,"1'000.000", "0")
 
 //categoria 2
 const pregunta1Ronda2 = new Pregunta('¿Qué nadador de elite ganó cuatro medallas en de oro y dos de plata en las olimpiadas de Londres de 2012?',['Michael Phelps','Caterine Ibarguen','Usain Bolt','Jesse Owens'],0,2,"2'000.000", "1'000,000")
 const pregunta2Ronda2 = new Pregunta('¿De que deporte se tomo la expresion "tirar la toalla"?',['Golf','Esgrima','Boxeo','Tiro con Arco'],2,2,"2'000.000", "1'000,000")
-const pregunta3Ronda2 = new Pregunta('¿En qué país se encuentra el circuito de Le Mans??',['Roma','Italia','Francia','Colombia'],2,2,"2'000.000", "1'000,000")
-const pregunta4Ronda2 = new Pregunta('¿En qué país se inventó el voleibol?',['Alemania','Estados Unidos','Mexio','Grecia'],1,2,"2'000.000", "1'000,000")
+const pregunta3Ronda2 = new Pregunta('¿En la biblia, Quién enloquecio de celos y mató a su hermano?',['Adan','Noe','Caín','Abel'],2,2,"2'000.000", "1'000,000")
+const pregunta4Ronda2 = new Pregunta('¿En qué país se inventó el voleibol?',['Alemania','Estados Unidos','Mexico','Grecia'],1,2,"2'000.000", "1'000,000")
 const pregunta5Ronda2 = new Pregunta('¿Quién ganó el mundial de fútbol de 2010?',['España','Uruguay','Alemania','Francia'],0,2,"2'000.000", "1'000,000")
 
 //categoria 3
