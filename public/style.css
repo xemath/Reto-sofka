@@ -1,0 +1,18 @@
+.noMostrar{
+    display: none;
+}
+.mostrar{
+    display: block;
+}
+header{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 100px;
+}
+header a{
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 20px;
+}
